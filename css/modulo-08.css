@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    padding: 30px 0;
+    margin: 0;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://img.freepik.com/vetores-premium/icone-do-sol-simbolo-de-sol-amarelo-brilhante-com-raios-em-estilo-infantil-simples_53562-14613.jpg);
+    background-size: 350px;  
+    
+}
+
+nav {
+    float: left;
+    width: 30%;
+    padding: 20px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+ul {
+    font-size: 15px;
+    padding: 0;
+    
+}
+
+.navegacao li {
+    padding: 10px 10px 10px 10px;
+    list-style-type: none;
+    border-bottom: 1px solid;
+    line-height: 1.2rem;
+  
+   
+
+}
+
+a {
+    color: rgb(179, 76, 12);
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    
+}
+
+.navegacao :hover {
+    background-color: rgb(223,225,118);
+}
+
+nav h1 {
+    font-size: 20px;
+}
+article {
+    float: left;
+    width: 70%;
+}
+div p {
+    font-family:cursive;
+    font-size: 1.2rem;
+}
+div h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+form {
+    background: #f4ef8f;
+    padding: 10px;
+}
+form div {
+    background: #fff;
+    border-bottom: 1px solid    ;
+    margin: 1rem;
+    padding: 2rem;
+}
+label {
+    margin-bottom: 1.4rem;
+    font-size: 1,4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(179, 76, 12);
+}
+[type="text"], [type="email"], textarea, label {
+    display: block;
+    width: 100%;
+
+
+}
+footer {
+    width: 100%;
+    background-image:url(https://img.freepik.com/vetores-premium/icone-do-sol-simbolo-de-sol-amarelo-brilhante-com-raios-em-estilo-infantil-simples_53562-14613.jpg);
+    background-size: 160px;
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+
+}
+
