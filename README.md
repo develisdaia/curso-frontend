@@ -1,4 +1,6 @@
-# curso-v
+# Curso de front-end
+#### EBAC
+
 # GIT
 ## Conceito deversionamento
 -Histórico
